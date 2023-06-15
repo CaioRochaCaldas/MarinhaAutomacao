@@ -1,0 +1,2 @@
+robot -d output_files MarinhaTestes.robot
+robot -d output_files -t "Caso de teste: validar itens pagina Codigo de Etica " MarinhaTestes.robot
